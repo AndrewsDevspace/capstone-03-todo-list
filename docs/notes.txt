@@ -1,0 +1,4 @@
+Some notes on this web application demo:
+  - No login feature (yet), ANYONE can use it simultaniously, leading to confusion.
+  - No DB support (yet), all todo post entries get lost if server is stopped / restarted.
+  - At most about 50-60 entries can be stored at once, to prevent unexpected behaviour or abuse.
